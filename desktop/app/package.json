@@ -30,7 +30,7 @@
     "immer": "^6.0.0",
     "immutable": "^4.0.0-rc.12",
     "invariant": "^2.2.2",
-    "live-plugin-manager": "^0.14.0",
+    "live-plugin-manager": "^0.15.1",
     "lodash": "^4.17.15",
     "npm-api": "^1.0.0",
     "open": "^7.0.0",
