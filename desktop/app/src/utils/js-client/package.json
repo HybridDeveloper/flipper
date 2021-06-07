@@ -12,6 +12,6 @@
   "dependencies": {
     "rsocket-flowable": "^0.0.14",
     "rsocket-types": "^0.0.16",
-    "ws": "^7.2.3"
+    "ws": "^7.4.6"
   }
 }
